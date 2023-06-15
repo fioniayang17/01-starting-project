@@ -18,9 +18,10 @@
 
 .actions {
   display: flex;
-  gap: 1rem;
+ 
   justify-content: flex-end;
   align-items: center;
+  
 }
 
 .actions button {
